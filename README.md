@@ -7,4 +7,4 @@
 javac -d bin src/**/*.java
 
 # TO RUN TEST #
-java org.junit.runner.JUnitCore [full test name]
+java org.junit.runner.JUnitCore map.object.ObjectMapperTestSuite
